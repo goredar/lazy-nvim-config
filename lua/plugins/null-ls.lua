@@ -21,7 +21,7 @@ return {
         nls.builtins.diagnostics.terraform_validate,
 
         nls.builtins.formatting.cbfmt,
-        -- nls.builtins.formatting.jq,
+        nls.builtins.formatting.jq,
         nls.builtins.formatting.ktlint,
         nls.builtins.formatting.markdownlint,
         nls.builtins.formatting.prettier.with({
